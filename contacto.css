@@ -1,0 +1,32 @@
+
+.formulario{
+   display: block;
+   width: 100%;
+}
+
+.form-table{
+   width: 100%;
+}
+
+.input-text, .area-text, .boton-formulario{
+   width: 100%;
+   height: 20px;
+   margin: 8px 0;
+   font-size: 14px;
+   border-color: gray;
+}
+
+.boton-formulario{
+   height: 30px;
+}
+
+.area-text{
+   height: 60px;
+   resize: none;
+}
+
+.contact-title{
+   margin: 0;
+   padding: 0;
+   font-size: 25px;
+}
